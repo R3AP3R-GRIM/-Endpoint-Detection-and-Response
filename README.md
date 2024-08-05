@@ -64,7 +64,7 @@ suspicious_ips = sus_ips.txt
 
 The main script that orchestrates the monitoring, detection, and response processes.
 
-### disablenetwrok.py
+### disable_network.py
 
 A script to disable network interfaces when a threat is detected.
 
